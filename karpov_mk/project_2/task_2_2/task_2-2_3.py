@@ -1,0 +1,6 @@
+print ("Введите название прибора, его инвентарный номер, состояние и количетсво")
+appliance_name = input() 
+inventory_num = input()
+status = input()
+quantity = input()
+print (f"Название:\t{appliance_name}\nИнвентарный номер:\t{inventory_num}\nСтатус:\t{status}\nКоличество:\t{quantity}")
