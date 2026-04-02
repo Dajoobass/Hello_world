@@ -1,0 +1,9 @@
+vacation_photo.jpg
+report_2025.pfg
+icon_main.png
+notes.txt
+background_image.gif
+scrip.sh
+old.backup.zip
+avatar.jpg
+
