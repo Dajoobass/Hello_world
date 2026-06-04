@@ -1,0 +1,5 @@
+{"timestamp": "2023-10-27T10:00", "level": "INFO", "message": "Нагрев начат"}
+{"timestamp": "2023-10-27T10:05", "level": "INFO", "message": "Температура в норме"}
+{"timestamp": "2023-10-27T10:15", "level": "WARNING", "message": "Давление растет"}
+{"timestamp": "2023-10-27T10:20", "level": "ERROR", "message": "Сбой клапана"}
+{"timestamp": "2023-10-27T10:21", "level": "INFO", "message": "Аварийная остановка"}
